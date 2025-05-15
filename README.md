@@ -4,7 +4,7 @@ I’m a software developer. I create experimental tools for automation infrastru
 
 #### Currently building:
 
-- 🐋 **[Yubarta](https://github.com/yubarta/yubarta)** – an open-source platform for auto-remediation at scale using alerts (e.g. from Datadog) and custom eBPF scanners
+- 🐋 **[Yubarta](https://github.com/dfrojas/yubarta)** – an open-source platform for auto-remediation at scale using alerts (e.g. from Datadog) and custom eBPF scanners
 - 🐳 **[bpfluga](https://github.com/dfrojas/bpfluga)** – a CLI tool for generating logs and metrics from eBPF telemetry, producing flamegraphs and actionable observability outputs
 
 ---
