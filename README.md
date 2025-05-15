@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Diego Fernando Rojas
 
-I’m a software developer and scuba & free diver, [I document the marine life of my travels](https://dfrojas.com/oceans/). I create experimental tools for automation infrastructure and performance observability — especially around eBPF, distributed systems, and low-level debugging.
+I’m a software developer. I create experimental tools for automation infrastructure and performance observability — especially around eBPF, distributed systems, and low-level debugging. I'm also a scuba & free diver, [I document the marine life of my travels](https://dfrojas.com/oceans/)
 
 #### Currently building:
 
