@@ -14,12 +14,6 @@ I’m a software developer. I create experimental tools for automation infrastru
 
 ---
 
-### 🌊 Beyond Code
-
-I'm also a **diver and ocean advocate**, documenting marine life through photos and storytelling: [dfrojas.com/oceans](https://dfrojas.com/oceans)
- 
----
-
 ### 📬 Let's Connect
 
 - Blog: [dfrojas.com/](https://dfrojas.com/)
