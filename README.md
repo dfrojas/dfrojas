@@ -12,5 +12,6 @@ I’m a software developer. I create experimental tools for automation infrastru
 ### 📬 Let's Connect
 
 - Blog: [dfrojas.com/](https://dfrojas.com/)
+- Linkedin: [https://www.linkedin.com/in/dfrojas/](https://www.linkedin.com/in/dfrojas/)
 - Twitter: [@dfrojas89](https://twitter.com/dfrojas89)
 - Email: hello at dfrojas dot com **or** rojastorrado at gmail dot com
